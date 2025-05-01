@@ -1,0 +1,13 @@
+div{
+    border: 2px dotted gray;
+    padding: 10px;
+}
+h1{
+    text-align: center;
+    border: 1px dashed silver;
+}
+p{
+    background-color: silver;
+    padding: 10px;
+    text-align: justify;
+}
